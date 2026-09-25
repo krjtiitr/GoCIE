@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "GoCIE"
+message: "If you use GoCIE in your research, please cite this software."
+type: software
+authors:
+  - family-names: "Thomas"
+    given-names: "K. R. Justin"
+    affiliation: "Department of Chemistry, Indian Institute of Technology Roorkee, Roorkee"
+version: "3.0"
+date-released: "September 09, 2026"
+repository-code: "https://github.com/krjtiitr/GoCIE"
+url: "https://faculty.iitr.ac.in/~krjt8fcy/gocie.html"
+license: "MIT"
