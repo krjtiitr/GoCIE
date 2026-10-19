@@ -1,4 +1,6 @@
-# GoCIE
+# GoCIE 3.0.1
+
+![About GoCIE 3.0.1](https://github.com/krjtiitr/GoCIE/blob/main/images/about.png?raw=true)
 
 **GoCIE** is a scientific visualization and color-analysis application based on the
 CIE 1931 chromaticity system. It is designed for researchers working with
@@ -11,36 +13,54 @@ plotting, point annotation, and publication-quality image export.
 
 ## Features
 
-- CIE 1931 x-y chromaticity diagram
-- Spectral-locus visualization with wavelength annotations
-- CIE color-gamut representations
-- Full-color chromaticity diagram
-- NTSC, PAL/SECAM, SMPTE and EBU color systems
-- Spectrum-to-XYZ and XYZ-to-xy conversion
-- Interactive point placement and annotation
-- Movable point labels
-- Movable wavelength labels
-- Custom X- and Y-axis titles
-- Customizable axes, grid and spectral-locus appearance
-- Multiple plot color schemes
-- Save and restore complete plot views
-- PNG, TIFF, JPEG, GIF and PDF export
-- Transparent PNG and TIFF export
-- Publication-oriented plot scaling
-- Windows-native Delphi/VCL application
+* CIE 1931 x-y chromaticity diagram
+  
+![Chromaticity Diagram](https://github.com/krjtiitr/GoCIE/blob/main/images/GoCIE_plot_full_color.png?raw=true)
+* Spectral-locus visualization with wavelength annotations
+* CIE color-gamut representations
+![Color Gamut](https://github.com/krjtiitr/GoCIE/blob/main/images/GoCIE_plot_gamut_triagle.png?raw=true)
+* Full-color chromaticity diagram
+
+![Color Gamut](https://github.com/krjtiitr/GoCIE/blob/main/images/GoCIE_full_color_gamut_triangle.png?raw=true)
+* NTSC, PAL/SECAM, SMPTE and EBU color systems
+  
+![NTSC](https://github.com/krjtiitr/GoCIE/blob/main/images/GoCIE_plot_gamut_triangle_ntsc.png?raw=true)
+![PAL/SECAM](https://github.com/krjtiitr/GoCIE/blob/main/images/GoCIE_plot_gamut_triangle_pal.png?raw=true)
+![SMPTE](https://github.com/krjtiitr/GoCIE/blob/main/images/GoCIE_plot_gamut_triangle_smpte.png?raw=true)
+![EBU](https://github.com/krjtiitr/GoCIE/blob/main/images/GoCIE_plot_gamut_triangle_ebu.png?raw=true)
+* Spectrum-to-XYZ and XYZ-to-xy conversion
+* Interactive point placement and annotation
+* Add Point
+
+![Add Point](https://github.com/krjtiitr/GoCIE/blob/main/images/add_point_dialog.png?raw=true)
+* Manage Points
+
+![Manage Points Point](https://github.com/krjtiitr/GoCIE/blob/main/images/manage_points_dialog.png?raw=true)
+* Movable point labels
+* Movable wavelength labels
+* Custom X- and Y-axis titles
+* Customizable axes, grid and spectral-locus appearance
+  
+![Plot Options](https://github.com/krjtiitr/GoCIE/blob/main/images/options_dialog.png?raw=true)
+* Multiple plot color schemes
+* Save and restore complete plot views
+* PNG, TIFF, JPEG, GIF and PDF export
+* Transparent PNG and TIFF export
+* Publication-oriented plot scaling
+* Windows-native Delphi/VCL application
 
 ## Applications
 
 GoCIE can be useful for visualization and analysis of:
 
-- emission and absorption spectra
-- photoluminescence data analysis
-- OLED and organic-emitter research
-- color coordinates
-- chromaticity 
-- color gamut comparisons
-- spectral color analysis
-- publication-quality 1931 CIE plots
+* emission and absorption spectra
+* photoluminescence measurements
+* OLED and organic-emitter research
+* color coordinates
+* chromaticity shifts
+* color gamut comparisons
+* spectral color analysis
+* publication-quality CIE plots
 
 ## Download
 
@@ -49,8 +69,8 @@ Compiled Windows executables are provided through the
 
 ## Requirements
 
-- Microsoft Windows
-- No external runtime installation is required for the released executable.
+* Microsoft Windows
+* No external runtime installation is required for the released executable.
 
 ## Development
 
@@ -58,8 +78,8 @@ GoCIE is developed in Delphi using the VCL framework.
 
 ## Author
 
-**Prof. K. R. Justin Thomas** 
-Organic Materials Laboratory 
+**Prof. K. R. Justin Thomas**
+Organic Materials Laboratory
 Department of Chemistry  
 Indian Institute of Technology Roorkee  
 India
