@@ -49,7 +49,7 @@ The exact interval chosen depends on the displayed axis range and should be chec
 
 The line joining a plotted CIE point to its text label can be styled independently of the point marker.
 
-![Connector](https://github.com/krjtiitr/GoCIE/blob/main/3.0.3/gocie_full_points.png?raw=true)
+![Connector](https://github.com/krjtiitr/GoCIE/blob/main/3.0.3/gocie_full_triangle_grid.png?raw=true)
 
 Available controls include:
 
